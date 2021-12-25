@@ -7,4 +7,4 @@ My solutions to [Project Euler](https://projecteuler.net) problems.
 ## Dependencies
 
 Additional libraries for some of the solutions go here:
-* The solution to [problem #20](https://projecteuler.net/problem=20) requires the [Boost Multiprecision Library](https://www.boost.org/doc/libs/1_78_0/libs/multiprecision/doc/html/index.html).
+* The solutions to problems [#20](https://projecteuler.net/problem=20) and [#25](https://projecteuler.net/problem=25) require the [Boost Multiprecision Library](https://www.boost.org/doc/libs/1_78_0/libs/multiprecision/doc/html/index.html).
